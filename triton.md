@@ -1,1 +1,1 @@
-![UCSD](./https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftoday.ucsd.edu%2Fstory%2Fuc-san-diego-climbs-to-no-3-public-university-in-u.s-in-academic-ranking-of-world-universities&ved=0CBYQjRxqFwoTCIjAi-PD35QDFQAAAAAdAAAAABAG&opi=89978449)
+![UCSD](./Pictures/UCSD.png)
